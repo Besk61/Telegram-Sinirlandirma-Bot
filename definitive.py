@@ -9,7 +9,7 @@ dp = Dispatcher(bot)
 
 # Konu bazlı mesaj gönderme süreleri (saniye cinsinden)
 TOPIC_LIMITS = {
-    3: 3600,  # Örnek Konu ID: 1 saat (3600 saniye)
+    3: 7200,  # Örnek Konu ID: 1 saat (3600 saniye)
     771: 15,
     4: 15,
 }
